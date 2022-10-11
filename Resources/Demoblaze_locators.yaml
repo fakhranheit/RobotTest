@@ -1,0 +1,6 @@
+Home: //*[contains(text(),'Home')]
+LoginButton: //*[@id="login2"]
+FieldUsername: //*[@id="loginusername"]
+FieldPassword: //*[@id="loginpassword"]
+ButtonLogin: //button[contains(text(),'Log in')]
+ButtonLogout: //*[contains(text(),'Log out')]
